@@ -9,6 +9,6 @@ function dateClick(){
 }
 
 function removeHome(){
-    const homeElement = document.getElementById('home');  
+    const homeElement = document.getElementById('homePage');  
     homeElement.remove();
 }
