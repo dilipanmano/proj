@@ -5,9 +5,23 @@
     width:10em;
     height:5em;
     margin-top: -9em; /*set to a negative number 1/2 of your height*/
-    margin-left: -8em; /*set to a negative number 1/2 of your width*/
+    margin-left: -5em; /*set to a negative number 1/2 of your width*/
 }
 
 #home-button{
+    margin-left: 6px;
+}
+
+.pages {
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    /* width:10em;
+    height:5em; */
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -5em; /*set to a negative number 1/2 of your width*/
+}
+
+#target{
     margin-left: 6px;
 }
